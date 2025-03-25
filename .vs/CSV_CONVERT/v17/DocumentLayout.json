@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\f.tedesco\\Desktop\\CSV_CONVERT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8E235C-313A-496C-9E30-D1C78A194671}|CSV_CONVERT\\CSV_CONVERT.csproj|c:\\users\\f.tedesco\\desktop\\csv_convert\\csv_convert\\converti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8E235C-313A-496C-9E30-D1C78A194671}|CSV_CONVERT\\CSV_CONVERT.csproj|solutionrelative:csv_convert\\converti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8E235C-313A-496C-9E30-D1C78A194671}|CSV_CONVERT\\CSV_CONVERT.csproj|c:\\users\\f.tedesco\\desktop\\csv_convert\\csv_convert\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8E235C-313A-496C-9E30-D1C78A194671}|CSV_CONVERT\\CSV_CONVERT.csproj|solutionrelative:csv_convert\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8E235C-313A-496C-9E30-D1C78A194671}|CSV_CONVERT\\CSV_CONVERT.csproj|c:\\users\\f.tedesco\\desktop\\csv_convert\\csv_convert\\testimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8E235C-313A-496C-9E30-D1C78A194671}|CSV_CONVERT\\CSV_CONVERT.csproj|solutionrelative:csv_convert\\testimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8E235C-313A-496C-9E30-D1C78A194671}|CSV_CONVERT\\CSV_CONVERT.csproj|c:\\users\\f.tedesco\\desktop\\csv_convert\\csv_convert\\bitwarden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8E235C-313A-496C-9E30-D1C78A194671}|CSV_CONVERT\\CSV_CONVERT.csproj|solutionrelative:csv_convert\\bitwarden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BITWARDEN.cs",
+              "DocumentMoniker": "C:\\Users\\f.tedesco\\Desktop\\CSV_CONVERT\\CSV_CONVERT\\BITWARDEN.cs",
+              "RelativeDocumentMoniker": "CSV_CONVERT\\BITWARDEN.cs",
+              "ToolTip": "C:\\Users\\f.tedesco\\Desktop\\CSV_CONVERT\\CSV_CONVERT\\BITWARDEN.cs",
+              "RelativeToolTip": "CSV_CONVERT\\BITWARDEN.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T13:15:41.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TESTIMPORT.cs",
+              "DocumentMoniker": "C:\\Users\\f.tedesco\\Desktop\\CSV_CONVERT\\CSV_CONVERT\\TESTIMPORT.cs",
+              "RelativeDocumentMoniker": "CSV_CONVERT\\TESTIMPORT.cs",
+              "ToolTip": "C:\\Users\\f.tedesco\\Desktop\\CSV_CONVERT\\CSV_CONVERT\\TESTIMPORT.cs",
+              "RelativeToolTip": "CSV_CONVERT\\TESTIMPORT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T13:14:15.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CONVERTI.cs",
+              "DocumentMoniker": "C:\\Users\\f.tedesco\\Desktop\\CSV_CONVERT\\CSV_CONVERT\\CONVERTI.cs",
+              "RelativeDocumentMoniker": "CSV_CONVERT\\CONVERTI.cs",
+              "ToolTip": "C:\\Users\\f.tedesco\\Desktop\\CSV_CONVERT\\CSV_CONVERT\\CONVERTI.cs",
+              "RelativeToolTip": "CSV_CONVERT\\CONVERTI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T13:16:44.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\f.tedesco\\Desktop\\CSV_CONVERT\\CSV_CONVERT\\Program.cs",
+              "RelativeDocumentMoniker": "CSV_CONVERT\\Program.cs",
+              "ToolTip": "C:\\Users\\f.tedesco\\Desktop\\CSV_CONVERT\\CSV_CONVERT\\Program.cs",
+              "RelativeToolTip": "CSV_CONVERT\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T13:13:19.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
